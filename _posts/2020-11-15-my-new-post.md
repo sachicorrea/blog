@@ -1,13 +1,20 @@
 ---
 layout: post
-title: My New Post
+title: My New Bootstrap Post
 date: 2020-11-15 18:13 -0500
+tags: bootstrap
 ---
 
-## Welcome!
+## Bootstrap forms
 
-Hi everyone. I created this blog to show some of my front-end projects I made using HTML, CSS, JavaScript, frameworks and libraries like Bootstrap, Sass and Jquery. Just click on the tag of your interest and it will list content related posts.
+Hi everyone. The idea with projects with the bootstrap tag is to display those that are purely made with this framework. This is the first one. And sorry, it was written in Spanish, but the content is worthless. Also I used popper that enrich bootstrap environment with events in JavaScript.
 
-In every post, you can find two related links, the fist one open the project hosted in github pages. The second link send you to the repository in github which you can check the code it was built. The post also includes a summary about what the project is as well as technical notes about commands, functions, methods and correlated components used according to the language or framework.
+The first part are shows headings and text orientation. They were made with h1 and h2 labels also text classes for the secon case. At the end of the page, I did a striped table with a hover if the cursor is on an specific row. Hover intensity is tenous so keep an eye on it to noticed it.
 
-If you're an employer, a developer or a student, I would feel happy to display my projects to you. Because of this website and their projects are hosted in github, you are free to colaborate to them through forks. They were thought up and released just to collaborate to open source code.
+
+[**_Check code on my github repo_**][github code]
+
+[**_Check project in real time_**][github pages]
+
+[github code]: https://github.com/sachicorrea/Bootstrap-Typo
+[github pages]: https://sachicorrea.github.io/Bootstrap-Typo/
