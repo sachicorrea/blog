@@ -1,0 +1,7 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+public
+2020-11-01-welcome-to-jekyll.markdown
