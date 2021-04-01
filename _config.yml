@@ -82,8 +82,8 @@ dash:
     - #url: https://twitter.com/bitbrain_
       #icon: twitter-square
       #color: cyan
-    - #url: https://bitbrain.itch.io
-      #icon: itch-io
+    - #url: https://www.linkedin.com/in/santiago-correa-0a7061b7/
+      #icon: linkedin-square
       #color: red
     - url: https://github.com/sachicorrea
       icon: github-square
