@@ -21,7 +21,7 @@
 title: sachic portfolio
 email: scorrear@tutanota.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi everyone. I'm sachic and I'm in a learning pathway to be a web developer. This is my blog where I display my front-end projects and occasionally I write about my experiences in tech matters.
+  Hi everyone. I'm sachic and I'm in a learning pathway to become a web programmer. This is my professional blog which I show my projects in front-end technologies and some related to them. / Hola a todos. Soy sachic y estoy en mi proceso para convertirme en un programador web. Este es mi blog profesional donde muestro mis proyectos utilizando tecnologías front-end y otras relacionadas.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb

@@ -11,8 +11,8 @@ date: 2021-03-24 17:49 -0500
 
 ```json
 {
-  "position": "Agente Bilingüe",
-  "company": "Teleperformance",
+  "posición": "Agente Bilingüe",
+  "compañía": "Teleperformance",
   "inicio": "2020-11-19",
   "fin": "2021-02-04",
 }
@@ -27,8 +27,8 @@ date: 2021-03-24 17:49 -0500
 
 ```json
 {
-  "position": "Desarrollador Web 2",
-  "company": "Ideándola",
+  "posición": "Desarrollador Web 2",
+  "compañía": "Ideándola",
   "inicio": "2019-10-07",
   "fin": "2020-04-30",
 }
@@ -97,7 +97,7 @@ Tecnologías
 ```js
 alert("Educación");
 ```
-* Tecnólogo Análisis y Desarrollo de Sistemas de información
+* Tecnólogo Análisis y Desarrollo de Sistemas de información - Jornada Nocturna
   
   Institucion: SENA. En curso
 
@@ -132,12 +132,12 @@ function referencias(compañía, dirección, email, contacto) {
 {
   "compañía": "Payc S.A.S", 
   "dirección": "Dirección: Calle 75 # 13-51 Piso 6, Bogotá",
-  "email": "",
+  "email": "info@payc.co",
   "contacto": "+57 (1)325 65 00"
 }
 ```
 ## Mis habilidades blandas
-[![Video](/images/play-button.png#icon)](https://drive.google.com/file/d/150axhPuosXp6ZaXrvoPO0Vm5AKp0iYZH/view?usp=sharing "Habilidades blandas Sachic")  Click en este ícono para conocerme un poco. Allí resumo mis habilidades blandas
+[![Video](https://image.flaticon.com/icons/png/128/482/482059.png#icon)](https://drive.google.com/file/d/150axhPuosXp6ZaXrvoPO0Vm5AKp0iYZH/view?usp=sharing "Habilidades blandas Sachic")  Click en este ícono para conocerme un poco. Allí resumo mis habilidades blandas
 
 ***
 
@@ -147,7 +147,7 @@ function referencias(compañía, dirección, email, contacto) {
 > Logo jQuery: https://clipground.com/
 > Logo Pandas: ttps://towardsdatascience.com/
 > Logo MsExcel: https://openclipart.org/
-> Play icon: https://www.flaticon.com/authors/those-icons
+> Play ícono: https://www.flaticon.com/
 
 <style>
   img[src*="#thumbnail"] {
