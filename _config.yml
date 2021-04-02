@@ -79,12 +79,12 @@ dash:
   # generate social links in footer
   # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
   social_links:
-    - #url: https://twitter.com/bitbrain_
-      #icon: twitter-square
+    - #alt: scorrear@tutanota.com
+      #icon: envelope
       #color: cyan
-    - #url: https://www.linkedin.com/in/santiago-correa-0a7061b7/
-      #icon: linkedin-square
-      #color: red
+    - url: https://www.linkedin.com/in/santiago-correa-0a7061b7/
+      icon: linkedin
+      color: red
     - url: https://github.com/sachicorrea
       icon: github-square
       color: purple
