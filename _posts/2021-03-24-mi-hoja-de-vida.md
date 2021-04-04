@@ -238,11 +238,6 @@ function referencias(compañía, dirección, email, contacto) {
 
 [![Video](https://image.flaticon.com/icons/png/128/482/482059.png#icon)](https://drive.google.com/file/d/150axhPuosXp6ZaXrvoPO0Vm5AKp0iYZH/view?usp=sharing "Habilidades blandas Sachic")  Click en este ícono para conocerme un poco y donde resumo mis habilidades blandas.
 
-Click on the @icn-camera icon to take a screen shot.
-
-####  Notice
-blah blah blah
-
 ***
 
 ## Creditos logos e íconos:
