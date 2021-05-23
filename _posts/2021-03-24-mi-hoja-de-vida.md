@@ -39,7 +39,7 @@ date: 2021-03-24 17:49 -0500
   .wordpress {width: 60%; background-color: #fddb8d;}
 </style>
 
-# Santiago Correa ({{ page.author }})
+# Santiago Correa Restrepo ({{ page.author }})
 
 ## Programador Web Junior
 
