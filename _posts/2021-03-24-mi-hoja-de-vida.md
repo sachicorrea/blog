@@ -22,60 +22,33 @@ date: 2021-03-24 17:49 -0500
     width: 100%;
     background-color: #DAE4ED;
   }
-
-  .skills {
-    text-align: right;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    color: #637AFE;
-    font-weight: bold; 
-  }
-
-  .html {width: 90%; background-color: #fddb8d;}
-  .css {width: 60%; background-color: #fddb8d;}
-  .js {width: 35%; background-color: #fddb8d;}
-  .php {width: 60%; background-color: #fddb8d;}
-  .mariadb {width: 70%; background-color: #fddb8d;}
-  .wordpress {width: 60%; background-color: #fddb8d;}
 </style>
 
 # Santiago Correa Restrepo ({{ page.author }})
 
 ## Programador Web Junior
 
-## My Skills
+## Mis habilidades
 
-<p>HTML</p>
-<div class="container">
-<div class="skills html">90%</div>
-</div>
+| Lenguajes | Otros |
+| programación | lenguajes |
+| :----: | :----: |
+| Python | Html |
+| Php | Css |
+| JavaScript | Mysql |
 
-<p>CSS</p>
-<div class="container">
-<div class="skills css">60%</div>
-</div>
+---
 
-<p>JavaScript</p>
-<div class="container">
-<div class="skills js">35%</div>
-</div>
+| Tecnologías
+| con Python
+| :----:
+| Flask
+| SQLAlchemy
+| SQLLite
+| Pandas
+| Numpy
 
-<p>PHP</p>
-<div class="container">
-<div class="skills php">60%</div>
-</div>
-
-<p>MariaDB</p>
-<div class="container">
-<div class="skills mariadb">70%</div>
-</div>
-
-<p>Wordpress</p>
-<div class="container">
-<div class="skills wordpress">60%</div>
-</div>
-
-\*\*
+Si quiere contactarme, haga click en los links de Github y LinkedIn en la parte superior
 
 ```json
 {
@@ -192,7 +165,6 @@ Tecnologías
     Logros: Automatización en Excel para el resumen y procesamiento de datos
     numéricos como consumos en obras
   </p>
-  <p></p>
   <div></div>
 </div>
 ```
@@ -213,53 +185,23 @@ Tecnologías
 alert("Educación");
 ```
 
-- Tecnólogo Análisis y Desarrollo de Sistemas de información - Jornada Nocturna
+- Tecnólogo Análisis y Desarrollo de Sistemas de información
 
-  Institucion: SENA. En curso
+  Institucion: Servicio Nacional de Aprendizaje. En curso
+
+- Curso Habilidades en Programación con Énfasis en Aplicaciones Web
+
+  Programa dictado por el Minsiterio de las Telecomunicaciones - Mintic 2022. En curso
 
 - Curso Inglés como Segunda Lengua
 
-  Institucion: University of British Columbia. Período: Enero - Abril 2013
+  Institucion: UBC - Vancouver, Canadá. Período: Enero - Abril 2013
 
----
-
-```js
-function referencias(compañía, dirección, email, contacto) {
-  return referencias_laborales;
-}
-```
-
-```json
-{
-  "compañía": "Teleperformance Colombia",
-  "dirección": "Centro Empresarial Connecta / Calle 26 No. 92-32 Torre B
-  Piso 2 Bogotá",
-  "email": "",
-  "contacto": "+57 (1)4049080 ext. 46219 y 46220"
-}
-
-{
-  "compañía": "Ideándola S.A.S",
-  "dirección": "comercial@ideandola.co",
-  "email": "comercial@ideandola.co",
-  "contacto": "+57 314 512 08 39"
-}
-
-{
-  "compañía": "Payc S.A.S",
-  "dirección": "Dirección: Calle 75 # 13-51 Piso 6, Bogotá",
-  "email": "info@payc.co",
-  "contacto": "+57 (1)325 65 00"
-}
-```
-
-## Mis habilidades blandas
+## Sobre mis habilidades blandas
 
 [![Video](https://image.flaticon.com/icons/png/128/482/482059.png#icon)](https://drive.google.com/file/d/150axhPuosXp6ZaXrvoPO0Vm5AKp0iYZH/view?usp=sharing "Habilidades blandas Sachic") Click en este ícono para conocerme un poco y donde resumo mis habilidades blandas.
 
----
-
-## Creditos logos e íconos:
+## Creditos íconos:
 
 > Logos de Wordpress, HTML5, CSS3: https://cdn.svgporn.com/
 > Logo jQuery: https://clipground.com/
