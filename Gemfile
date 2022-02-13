@@ -7,7 +7,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 4.1.1"
+gem "jekyll", "~> 4.2.1"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 #gem "minima", "~> 2.5"
 gem 'jekyll-dash', '~> 2.0.0'
@@ -38,4 +38,3 @@ gem 'jekyll-tagging'
 
 # Liquid md5 plugin
 gem "liquid-md5"
-

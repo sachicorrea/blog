@@ -12,9 +12,9 @@ Hi everyone. The idea with projects with the bootstrap tag is to display those t
 The first part are shows headings and text orientation. They were made with h1 and h2 labels also text classes for the secon case. At the end of the page, I did a striped table with a hover if the cursor is on an specific row. Hover intensity is tenous so keep an eye on it to noticed it.
 
 
-[**_Check code on my github repo_**][github code]
+[**_Code_**][github code]
 
-[**_Check project in real time_**][github pages]
+[**_Website_**][github pages]
 
 [github code]: https://github.com/sachicorrea/Bootstrap-Typo
 [github pages]: https://sachicorrea.github.io/Bootstrap-Typo/
