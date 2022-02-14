@@ -14,7 +14,7 @@ date: 2021-03-24 17:49 -0500
   }
 </style>
 
-({{ page.author }})
+# {{ page.author }}
 ## Habilidades
 
 | Lenguajes de | Otros | Frameworks
