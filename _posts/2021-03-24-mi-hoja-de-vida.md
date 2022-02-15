@@ -25,7 +25,7 @@ date: 2021-03-24 17:49 -0500
 | MariaDB |  |
 
 ---
-Si quiere ver más de mi trabajo, haga click en los links de Github y LinkedIn en la parte superior
+Si quiere ver más de mi trabajo o contactarme, haga click en los links de Github, LinkedIn o Twitter en la parte superior
 
 ```json
 {
