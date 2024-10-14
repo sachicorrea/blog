@@ -21,7 +21,7 @@
 title: programming blog
 email: scorrear@tutanota.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi everyone. I'm sachic and I'm in a learning pathway to become a web programmer. This is my blog about web development topics
+  Hi everyone. I'm sachic and I'm in a learning pathway to automate repetitive task through programming. This is my blog about general programing topics
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sachic_85
@@ -79,15 +79,12 @@ dash:
   # generate social links in footer
   # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
   social_links:
-    - url: https://www.linkedin.com/in/santiago-correa-restrepo-0a7061b7/
+    - url: https://www.linkedin.com/in/santiago-correar/
       icon: linkedin
       color: red
     - url: https://github.com/sachicorrea
       icon: github-square
       color: purple
-    - url: https://twitter.com/sachic_85
-      icon: twitter-square
-      color: yellow
 
   show_author: true
 
